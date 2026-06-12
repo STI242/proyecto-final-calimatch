@@ -1,6 +1,7 @@
 # 🗺️ CaliMatch
 
 > Plataforma de recomendación grupal de lugares en Cali, integrada con un agente conversacional en Telegram.
+> https://cali-match.salamancanikol10.workers.dev/landing
 
 ---
 
